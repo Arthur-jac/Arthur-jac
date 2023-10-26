@@ -1,6 +1,8 @@
 
-<p align="center">Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente estou realizando uma pós graduação em Ciências de dados e Inteligência Artificial, estou também, em buscas de novas oportunidades e experiências, quero novos desafios para por em prática o que eu amo fazer. Tenho conhecimento em diversas tecnologias na área de desenvolvimento e dados.</p>&nbsp;
+# Olá, meu nome é Arthur e sou apaixonado por tecnologia! 👋
 
+
+<p align="center">Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente estou realizando uma pós graduação em Ciências de dados e Inteligência Artificial, estou também, em buscas de novas oportunidades e experiências, quero novos desafios para por em prática o que eu amo fazer ❤️. Tenho conhecimento em diversas tecnologias na área de desenvolvimento e dados.</p>&nbsp;
 
 
 ## Minhas habilidades
@@ -47,6 +49,6 @@
 <div> 
 <a href="https://www.instagram.com/arthur_jacomite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.arthurjacomite@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://br.linkedin.com/in/arthur-jacomite-84ba8b210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
+<a href = "mailto:contato.arthurjacomite@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arthur-jacomite-84ba8b210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn0idwDPCSqOMhutIQNmU8Q%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
