@@ -1,5 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Arthur-jac/Arthur-jac/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente estou realizando uma pós graduação em Ciências de dados e Inteligência Artificial, estou também, em buscas de novas oportunidades e experiências, quero novos desafios para por em prática o que eu amo fazer. Tenho conhecimento em diversas tecnologias na área de desenvolvimento e dados.</p>&nbsp;
 
@@ -52,8 +50,3 @@
 <a href = "mailto:contato.arthurjacomite@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/arthur-jacomite-84ba8b210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
