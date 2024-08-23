@@ -2,7 +2,14 @@
 # Olá, meu nome é Arthur e sou apaixonado por tecnologia! 👋
 
 
-<p align="center">Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente estou realizando uma pós graduação em Ciências de dados e Inteligência Artificial, estou também, em buscas de novas oportunidades e experiências, quero novos desafios para por em prática o que eu amo fazer ❤️. Tenho conhecimento em diversas tecnologias na área de dados e sistemas.</p>&nbsp;
+<p align="center">
+    Profissional de TI com experiência em análise de dados e análise de sistemas. Expertise em tecnologias como:
+    PowerBI, Qlik Sense, Python(Pandas, Numpy, Streamlit, Selenium), Banco de Dados(MySql, PostgreSQL,
+    Oracle), Java, Linux, versionamento de código(Git e GitHub) e SQL/PLSQL.
+    Tenho o objetivo de atuar como um Analista de Dados ou Cientista de Dados, desenvolvendo produtos de dados,
+    seja para adicionar valor a insights valiosos ou para solucionar problemas de negócios para as empresas.
+    Quero novos desafios para por em prática o que eu amo fazer ❤️. Tenho conhecimento em diversas tecnologias na área de dados e sistemas.
+</p>&nbsp;
 
 
 ## Minhas habilidades
